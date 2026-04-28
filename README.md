@@ -1,16 +1,29 @@
-## Hi there 👋
-
-<!--
-**tammydetechguy/tammydetechguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+‎# 👋 Hi, I'm Jerry Tammy Sokari
+‎
+‎💻 Full Stack Developer
+‎🚀 I build scalable web applications, APIs, and business systems 
+‎
+‎## 🔧 Tech Stack
+‎- PHP (Laravel/Core PHP)
+‎- JavaScript, HTML, CSS
+‎- SQL Server, MySQL
+‎- Flutter & Dart
+‎
+‎## 📌 Featured Projects
+‎
+‎### 🚚 Logistics Management System
+‎A system for tracking deliveries and inventory 
+‎Tech: PHP, MySQL, JavaScript 
+‎
+‎### 🏗 Procurement Platform
+‎Enterprise procurement system with role-based access 
+‎Tech: PHP(Laravel), MYSQL 
+‎
+‎### 🔗 REST API Service
+‎Secure and scalable API for business operations 
+‎Tech: PHP, MYSQL 
+‎
+‎## 📫 Contact Me
+‎-LinkedIn:https://www.linkedin.com/in/jerrysokari
+‎- Email: tammydetechguy@gmail.com
+‎
